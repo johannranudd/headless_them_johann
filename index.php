@@ -14,10 +14,7 @@
     include ("test.php")
     ?>
 
-    <!-- <script src="./js/script.js"></script> -->
-    <?php 
-      echo '<script src="./js/script.js" type="text/JavaScript"> 
-     </script>';
-     ?>
+    <script src="./js/script.js"></script>
+    
   </body>
 </html>
