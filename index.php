@@ -8,5 +8,8 @@
   </head>
   <body>
     <h1>this is plain html</h1>
+    <?php 
+    include ("test.php")
+    ?>
   </body>
 </html>
