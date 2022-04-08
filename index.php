@@ -15,17 +15,16 @@
     ?>
     
 
-    <script><?= './js/script.js' ?></script>
-  </body>
-</html>
-
-
-
-<!-- <script type="text/javascript">
+    <script type="text/javascript">
       const btn = document.querySelector('button');
       const headline = document.querySelector('h1');
       btn.addEventListener('click', () => {
         //   headline.classList.add('redClass');
         headline.style.color = 'red';
       });
-    </script> -->
+    </script>
+  </body>
+</html>
+
+
+
