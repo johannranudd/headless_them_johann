@@ -10,10 +10,14 @@
   <body>
     <h1>this is plain html</h1>
     <button>click</button>
-    <!-- <?php 
+    <?php 
     include ("test.php")
-    ?> -->
+    ?>
 
-    <script src="./js/script.js"></script>
+    <!-- <script src="./js/script.js"></script> -->
+    <?php 
+      echo '<script src="./js/script.js" type="text/JavaScript"> 
+     </script>';
+     ?>
   </body>
 </html>
